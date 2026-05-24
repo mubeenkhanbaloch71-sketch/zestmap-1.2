@@ -2151,7 +2151,7 @@ ul{
   #explore-container { height: auto; padding-bottom: 40px; }
   .searh-input { width: calc(100% - 32px); margin-left: 16px; box-sizing: border-box; }
   .filter-btn { display: block; margin-left: 16px; margin-top: 10px; }
-  .buttons { display: flex; flex-wrap: wrap; gap: 6px; padding-left: 16px; padding-right: 16px; }
+  .buttons { display: flex; flex-wrap: wrap; gap: 6px; padding-left: 16px; padding-right: 16px;margin-top: 5px; }
   .all-btn, .all-btn1, .all-btns { margin-left: 0; margin-top: 0; }
   .sortt { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; padding-left: 16px; }
   .sort { margin-left: 0; }
@@ -2219,8 +2219,8 @@ ul{
   /* Footer */
   #fotter { flex-direction: column; height: auto; padding-bottom: 30px; }
   .first { width: 90%; margin-left: 16px; margin-top: 30px; }
-  .fotter-box, .fotter-box1, .fotter-box2 { width: 90%; margin-left: 16px; margin-top: 20px; }
-  #last-fotter { height: auto; padding: 20px 16px; text-align: center; }
+  .fotter-box, .fotter-box1, .fotter-box2 { width: 90%; margin-left: 16px; margin-top: 20px; text-align: center; }
+  #last-fotter { width: 90%; height: auto; padding: 20px 16px; text-align: center; }
   .copyright { padding-left: 0; padding-top: 0; display: block; margin-bottom: 10px; }
   #privacy, #privacy2 { display: inline-block; margin-left: 5px; margin-top: 0; }
 }
