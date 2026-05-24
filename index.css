@@ -2219,6 +2219,8 @@ ul{
   /* Footer */
   #fotter { flex-direction: column; height: auto; padding-bottom: 30px; }
   .first { width: 90%; margin-left: 16px; margin-top: 30px; }
+  .fotter-logo{ margin-top: 10px; 
+}
   .fotter-box, .fotter-box1, .fotter-box2 { width: 90%; margin-left: 16px; margin-top: 20px; text-align: center; }
   #last-fotter { width: 90%; height: auto; padding: 20px 16px; text-align: center; }
   .copyright { padding-left: 0; padding-top: 0; display: block; margin-bottom: 10px; }
