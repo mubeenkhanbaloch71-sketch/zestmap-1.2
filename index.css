@@ -2222,7 +2222,7 @@ ul{
   .fotter-logo{ margin-top: 0px; 
 }
   .fotter-box, .fotter-box1, .fotter-box2 { width: 90%; margin-left: 16px; margin-top: 20px; text-align: center; height: auto; }
-  #last-fotter { width: 100%; height: auto; padding: 20px 16px; text-align: center; }
+  #last-fotter { width: auto; height: auto; padding: 20px 16px; text-align: center; }
   .copyright { padding-left: 0; padding-top: 0; display: block; margin-bottom: 10px; }
   #privacy, #privacy2 { display: inline-block; margin-left: 5px; margin-top: 0; }
 }
